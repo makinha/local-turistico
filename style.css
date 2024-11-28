@@ -109,5 +109,10 @@ ul {
 
 footer {
   text-align: center;
+  color: #333333;
   padding-bottom: 48px;
+}
+
+footer img {
+  vertical-align: middle;
 }
