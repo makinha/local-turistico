@@ -1,0 +1,113 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-family: "Open Sans", sans-serif;
+}
+
+#page {
+  max-width: 1120px;
+  margin: 80px auto;
+  box-sizing: border-box;
+}
+
+#cover,
+#yongdusan {
+  border-bottom: solid 1px #d9d9d9;
+}
+
+#cover p {
+  padding-bottom: 64px;
+}
+
+h4 {
+  font-size: 16px;
+  color: #e1624f;
+  text-transform: uppercase;
+  padding-bottom: 8px;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 36px;
+  color: #1b1b1b;
+  padding-bottom: 40px;
+  font-weight: bold;
+}
+
+#subtitle {
+  font-style: italic;
+  color: #333333;
+  font-size: 16px;
+  text-align: center;
+  padding-top: 24px;
+  padding-bottom: 40px;
+}
+
+#discover {
+  padding-top: 64px;
+  padding-bottom: 64px;
+}
+
+h2 {
+  font-size: 32px;
+  color: #1b1b1b;
+  padding-bottom: 8px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 16px;
+  color: #333333;
+}
+
+h3 {
+  font-size: 28px;
+  font-weight: bold;
+  padding-top: 24px;
+  padding-bottom: 4px;
+}
+
+#label {
+  font-weight: bold;
+  font-size: 16px;
+  color: #333333;
+}
+
+ul {
+  padding-left: 24px;
+  font-size: 16px;
+  font-weight: bold;
+  padding-bottom: 48px;
+}
+
+#blue {
+  color: #0c51a7;
+}
+
+#purple {
+  color: #591b98;
+}
+
+#pink {
+  color: #e5245e;
+}
+
+#orange {
+  color: #e95e10;
+}
+
+#finish {
+  padding-top: 40px;
+  text-align: center;
+  color: #333333;
+  font-weight: normal;
+  font-size: 16px;
+}
+
+footer {
+  text-align: center;
+  padding-bottom: 48px;
+}
